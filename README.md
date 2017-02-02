@@ -1,0 +1,1 @@
+# ci-nginx-core-proxy
